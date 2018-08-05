@@ -1,3 +1,3 @@
 # hello-world
 
-Hello there! My name is Ann and I am new to github. I know this website will not be as interesting looking and such as others, but I strive to do my best under the circumstances! Come join me on this little adventure. 
+Hello there! My name is Ann and I am new to github. This will be a very interesting adventure to embark on, but I will do my best with the limited knowledge I have!!
